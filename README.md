@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asia1minor
+- 👋 Hi, I’m @MarinerB
 - 👀 I’m interested in ... Backend Development
 - 🌱 I’m currently learning ...Frontend Development
 - 💞️ I’m looking to collaborate on ...Stackbit
